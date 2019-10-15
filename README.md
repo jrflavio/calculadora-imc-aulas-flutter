@@ -3,13 +3,13 @@
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
 
 <p align="center">
-    <img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_1.png" weight="800"/>
+    <img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_1.png" width="800"/>
 </p>
 <p align="center">
-    <img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_2.png" weight="800"/>
+    <img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_2.png" width="800"/>
 </p>
 <p align="center">
-    <img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_3.png" weight="800"/>
+    <img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_3.png" width="800"/>
 </p>
 
 ## Como clonar e importar
