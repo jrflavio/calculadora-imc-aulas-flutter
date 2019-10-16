@@ -9,12 +9,6 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
 </p>
 
 
-## Como clonar e importar
--   Faça um fork do projeto
--   Abra o terminal do Visual Studio Code
--   Digite (troque kleberandrade pelo nome do seu usuários): git clone https://github.com/kleberandrade/calculadora-imc-aulas-flutter calculadora_imc
--	Nome da pasta: calculadora_imc
-
 ## Desafio para aula
 
 -  [X] Adicionar botões (Toggle ou Radio button) para escolha de gênero;
