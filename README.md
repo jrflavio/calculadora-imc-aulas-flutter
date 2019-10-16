@@ -9,8 +9,8 @@ Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mob
 </p>
 
 ## Alunos
-	Flávio Júnior
-	Gustavo Messias
+-	Flávio Júnior
+-	Gustavo Messias
 
 ## Desafio para aula
 
